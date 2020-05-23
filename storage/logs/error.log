@@ -1,0 +1,71 @@
+[2020-05-19 15:31:00] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 17:31:27] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 17:32:17] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 16:32:36] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 04:34:07pm] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 03:34:30pm] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 03:35:12pm] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 03:35:30] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[2020-05-19 03:35:46 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 03:36:31 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 03:52:06 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 04:00:57 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 04:01:04 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 04:23:50 PM] - Error: default.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 04:24:23 PM] - Error: defaults.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 40
+[Tue 2020-05-19 04:28:45 PM] - Error: defaulte.php does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 62
+[Tue 2020-05-19 04:28:59 PM] - Error: defaults.php already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 69
+[Tue 2020-05-19 04:33:35 PM] - Error: init.php does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 94
+[Tue 2020-05-19 06:16:07 PM] - Error: C:\xampp\htdocs\testframework/storage/public/ikk.png is not a file or a directory in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\Zip.php on line 15
+[Tue 2020-05-19 06:17:48 PM] - Error: C:\xampp\htdocs\testframework/storage/public/ikk.png is not a file or a directory in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\Zip.php on line 15
+[Wed 2020-05-20 12:10:18 AM] - Error: home.html already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\View.php on line 49
+[Wed 2020-05-20 12:10:35 AM] - SQLSTATE[HY000] [1049] Unknown database 'testframewok_db' in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Database\Database.php on line 29
+[Wed 2020-05-20 10:03:55 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 71
+[Wed 2020-05-20 10:07:36 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 71
+[Wed 2020-05-20 10:08:55 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 71
+[Wed 2020-05-20 10:13:30 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 70
+[Wed 2020-05-20 10:16:26 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 70
+[Wed 2020-05-20 10:21:03 AM] - Error: mail not sent. in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Mail\Mail.php on line 70
+[Wed 2020-05-20 10:37:52 AM] - Error: File dexx.html does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Http\Response.php on line 107
+[Wed 2020-05-20 10:42:35 AM] - Error: File dexx.html does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Http\Response.php on line 161
+[Wed 2020-05-20 10:44:16 AM] - Error: File dexx.html does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Http\Response.php on line 161
+[Wed 2020-05-20 12:19:51 PM] - Error: File Hong does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Http\Response.php on line 167
+[Wed 2020-05-20 04:55:54 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 04:58:56 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:00:44 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:02:12 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:02:29 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:05:11 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:05:27 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:11:38 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 225
+[Wed 2020-05-20 05:12:24 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:12:30 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:13:15 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:13:31 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:13:39 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:13:53 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:14:31 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:14:37 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:15:32 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:15:39 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:17:43 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:18:27 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:18:32 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:19:13 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Wed 2020-05-20 05:19:30 PM] - SECURITY: Possible CSRF attack from IP: ::1 in C:\xampp\htdocs\testframework\app\services\Auth.php on line 226
+[Fri 2020-05-22 09:53:08 AM] - Error:  already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 2020-05-22 09:55:42 AM] - Error: C:\xampp\htdocs\testframework/storage/public/9aa70a.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 2020-05-22 10:04:49 AM] - Error: C:\xampp\htdocs\testframework/storage/public/9aa70a.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 2020-05-22 10:06:21 AM] - Error: C:\xampp\htdocs\testframework/storage/public/9aa70a.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 10:48:07 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/9aa70a.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:06:38 AM UTC] - Error:  already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:08:58 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/ already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:10:01 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/ already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:10:52 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/ already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:11:32 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/File_ooo.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:12:50 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/ already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Fri 22-05-2020 11:15:12 AM UTC] - Error: C:\xampp\htdocs\testframework/storage/public/tutorials/bdc311.png already exists! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\File\File.php on line 13
+[Sat 23-05-2020 12:36:57 PM UTC] - SQLSTATE[HY000] [1049] Unknown database 'testframewok_db' in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Database\Database.php on line 29
+[Sat 23-05-2020 12:37:28 PM UTC] - Error: user.php.php does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 94
+[Sat 23-05-2020 12:38:42 PM UTC] - Error: user.php.php does not exist! in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Gulp\Migration.php on line 94
+[Sat 23-05-2020 12:38:48 PM UTC] - SQLSTATE[HY000] [1049] Unknown database 'testframewok_db' in C:\xampp\htdocs\testframework\vendor\ebukaodini\initframework\src\Framework\Database\Database.php on line 29
