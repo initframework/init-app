@@ -1,6 +1,7 @@
 {
     "name": "ebukaodini/init-app",
     "description": "InitFramework Application.",
+    "version":"1.0.0",
     "type": "project",
     "require": {
         "ebukaodini/initframework": "dev-master"
