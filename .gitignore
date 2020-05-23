@@ -1,0 +1,6 @@
+.htaccess
+.todo
+.git/
+storage/
+vendor/
+app/config.php

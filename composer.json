@@ -1,0 +1,16 @@
+{
+    "name": "ebukaodini/init-app",
+    "description": "InitFramework Application.",
+    "type": "project",
+    "require": {
+        "ebukaodini/initframework": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ebuka Odini",
+            "email": "ebukaodini@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
