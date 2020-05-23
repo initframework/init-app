@@ -12,5 +12,5 @@
             "email": "ebukaodini@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "1.0.0"
 }
